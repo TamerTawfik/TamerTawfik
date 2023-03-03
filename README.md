@@ -15,8 +15,6 @@ Hi there! I'm Tamer, a self-taught front end developer who recently transitioned
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TamerTawfik&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/TamerTawfik_Me)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TamerTawfik&icon=2&color=3)](https://visitcount.itsvg.in)
