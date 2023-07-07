@@ -1,6 +1,6 @@
 ### 💫 About Me:
-Hi there! I'm Tamer, a self-taught front end developer who recently transitioned to a career in tech. My journey began when I realized my passion for technology and design could be combined into a fulfilling career in web development.<br><br>I started learning HTML, CSS, and JavaScript on my own time, building small projects and experimenting with new tools and frameworks. As I grew more confident in my skills, I began taking on freelance projects and collaborating with other developers in the community.<br><br><br>
-<p align="center">Let's open-source together! Send me a <a href="https://twitter.com/TamerTawfik_Me" rel="noopener noreferrer" target="_blank">link!</a></p>
+Hi there! I'm Tamer, a self-taught front-end developer who recently transitioned to a career in tech. My journey began when I realized my passion for technology and design could be combined into a fulfilling career in web development.<br><br>I started learning HTML, CSS, and JavaScript independently, building small projects and experimenting with new tools and frameworks. As I grew more confident in my skills, I began taking on freelance projects and collaborating with other developers in the community.<br><br><br>
+<p align="center">Let's open-source together! Send me a <a href="https://portfolio-tamertawfik.vercel.app/contact" rel="noopener" target="_blank">link!</a></p>
 
 
 
